@@ -1,5 +1,2 @@
-# Table views demo.
+# Tab example that includes my previous ListView example with nothing added.
 
-Disney movie data obtained from [https://www.kaggle.com/prateekmaj21/disney-movies/data?select=disney_movies.csv](https://www.kaggle.com/prateekmaj21/disney-movies/data?select=disney_movies.csv)
-
-Icon from Noun Project.
